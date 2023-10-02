@@ -1,0 +1,7 @@
+langchain==0.0.191
+chromadb==0.3.29
+tiktoken
+beautifulsoup4
+openai
+pypdf
+unstructured
